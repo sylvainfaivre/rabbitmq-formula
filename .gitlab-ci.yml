@@ -147,7 +147,7 @@ rubocop:
 # default-debian-11-master-py3: {extends: '.test_instance'}
 # nopillars-debian-11-master-py3: {extends: '.test_instance'}
 debian-11-master-py3: {extends: '.test_instance'}
-# default-debian-10-master-py3: {extends: '.test_instance'}
+#default-debian-10-master-py3: {extends: '.test_instance'}
 # nopillars-debian-10-master-py3: {extends: '.test_instance'}
 # debian-10-master-py3: {extends: '.test_instance'}
 # default-debian-9-master-py3: {extends: '.test_instance'}
